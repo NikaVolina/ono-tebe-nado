@@ -56,11 +56,11 @@
     text-wrap: nowrap;
 }
 
-.header__link_active{
+.header__link_active {
     text-decoration: none;
 }
 
-.header__logo{
+.header__logo {
     justify-self: center;
 }
 
